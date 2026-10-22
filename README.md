@@ -6,7 +6,17 @@
 
 A simple console-based unit converter written in C++. Pick a category, choose the units to convert from and to, enter a value, and get the result.
 
+### **How to run**
 
+Open the Releases page.
+
+Download UnitConverter.exe from the latest release.
+
+Follow the on-screen menu to select a conversion category.
+
+Choose the units you want to convert, enter a value, and view the result.
+
+Follow the menu options to perform another conversion or exit the application.
 
 ### **Features**
 
